@@ -1,4 +1,4 @@
-<h1 align="center"> NLW Copa</h1>
+<h1 align="center" font-text="Comic-sans"> NLW Copa</h1>
 
 ## Projeto
 
